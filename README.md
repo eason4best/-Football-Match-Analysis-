@@ -1,4 +1,4 @@
 # Hello_World
-first proj on GIT\n
+first proj on GIT
 README CAREFULLY!
 GOTTA BECOME A MILLIONAIRE ONE DAY!
